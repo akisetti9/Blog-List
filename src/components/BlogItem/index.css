@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.blog-list-container {
+  background-color: #ffffff;
+  width: 100%;
+  color: #9aa5b1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  list-style: none;
+}
+
+.title-and-date {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.blog-title {
+  color: #12022f;
+}
+.date {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.break-line {
+  width: 100%;
+}
